@@ -1,0 +1,4 @@
+#a---    -----------> raises syntaxError
+
+a+1
+

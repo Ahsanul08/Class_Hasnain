@@ -79,9 +79,4 @@ paramiko_connection.hostname_list.append('192.168.33.10')
 paramiko_connection.create_connection()
 print(paramiko_connection.run_command('192.168.33.10', 'ls'))
 
-
-
-
-
-
                                                                                              
